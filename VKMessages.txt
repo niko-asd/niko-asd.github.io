@@ -1,1 +1,1 @@
-1|https://niko-asd.github.io/SFPlugin.sf
+2|https://niko-asd.github.io/SFPlugin.sf
